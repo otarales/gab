@@ -36,15 +36,15 @@
     <link rel="shortcut icon" href="img/favicon.png">
 
     
-        <link rel="stylesheet" href="css/pricing.css" />
+        <link rel="stylesheet" href="pricing.css" />
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/magnific-popup.css" />
-    <link rel="stylesheet" href="css/select2.min.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/orange.css" />
-    <link rel="stylesheet" href="css/styles-extend.css">
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <link rel="stylesheet" href="magnific-popup.css" />
+    <link rel="stylesheet" href="select2.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="orange.css" />
+    <link rel="stylesheet" href="styles-extend.css">
 
     <script src="js/modernizr.js"></script>
 
