@@ -1,0 +1,201 @@
+body {
+    background: #fff;
+}
+
+body, p {
+    color: #444;
+}
+
+.footer {
+    background: #f5f5f5;
+}
+
+.footer .top-footer .menu ul li a:hover {
+    color: #000;
+}
+
+.call-action-all::after, .call-action-all::before {
+    border-bottom: 30px solid #f5f5f5;
+}
+
+.bitcoin-calculator .form-equal {
+    color: #000;
+}
+
+.bitcoin-calculator-section::before {
+    background: transparent;
+}
+
+.bitcoin-calculator-section {
+    margin: 90px 0;
+}
+
+ul.nav.nav-tabs li a{
+    color: #555;
+}
+
+ul.nav.nav-tabs li a, ul.nav.nav-tabs li.active a {
+    border-left: 1px solid #ccc;
+}
+
+.image-block, 
+.image-block2 {
+    background: #f3f3f3;
+}
+
+.bitcoin-calculator-section .container {
+    background: #f4f4f4;
+}
+
+.bitcoin-calculator .form-input{
+    background: #bcbcbc;
+    color: #000;
+}
+
+.bitcoin-calculator .form-input {
+    border: 1px solid #7d7d7d;
+}
+
+.bitcoin-calculator-section h2 {
+    color: #000;
+}
+
+.feature-title {
+    color: #000;
+}
+
+.header {
+    background: #f5f5f5;
+}
+
+ul.bitcoin-stats h6 {
+    color: #333;
+}
+
+ul.bitcoin-stats span {
+    color: #444;
+}
+
+.features-row {
+    background: #f3f3f3;
+}
+
+.feature-box .feature-box-content h3 {
+    color: #000;
+}
+
+.feature-box .feature-box-content p {
+    color: #555;
+}
+
+.site-navigation,
+.site-nav-inner,
+.site-navigation.fixed ul.navbar-nav {
+    background: #fff;
+}
+
+.site-navigation {
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-toggle .icon-bar {
+    background: #fff;
+}
+
+.navbar-collapse ul.navbar-nav > li > a {
+    color: #000;
+}
+
+.navbar-collapse ul.navbar-nav > li:hover > a {
+    color: #fd961a;
+}
+
+.title-head {
+    color: #000;
+}
+
+.title-about {
+    color: #000;
+}
+
+
+/* LOGIN PAGE */
+
+.user-auth > div:nth-child(2) {
+    background: #f2f2f2;
+}
+
+.form-control {
+    border: 1px solid #ccc;
+    background: #fff;
+    color: #000;
+}
+
+.bitcoin-calculator-section p.info {
+    color: #555;
+}
+
+.dropdown-menu {
+    background: #fff;
+    border-right: 1px solid rgb(67 67 67 / 60%);
+    border-bottom: 1px solid rgb(67 67 67 / 60%);
+    border-left: 1px solid rgb(67 67 67 / 60%);
+}
+
+.dropdown-menu li a {
+    color: #000;
+}
+
+.dropdown-menu li a:hover, .dropdown-menu li.active a:hover, .dropdown-menu li.active a {
+    background: #f6f6f6;
+}
+
+.banner-area:after, .banner-area:before {
+    border-bottom: 30px solid #fff;
+}
+
+.facts .container {
+    background: #f5f5f5;
+}
+
+.facts .facts-content .heading-facts h2,
+.facts h3 {
+    color: #111;
+}
+
+.facts h4 {
+    color: #555;
+}
+
+h4.panel-title a.collapsed {
+    color: #000;
+}
+
+.terms-of-services h3 {
+    color: #000;
+}
+
+.contact-form h3 {
+    color: #000;
+}
+
+.contact-info-box-content p,
+.contact-info-box-content a{
+    color: #bbb;
+}
+
+.contact-info {
+    padding-bottom: 100px;
+}
+
+@media (max-width: 767px){
+    #llogo{
+        display: flex!important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .contact-info {
+        padding: 10px 10px 30px 10px;
+    }
+}
